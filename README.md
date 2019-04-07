@@ -1,2 +1,2 @@
 # pop-up
-Awesome pop-up menu
+Clear HTML & CSS pop-up menu without JS

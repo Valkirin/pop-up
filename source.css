@@ -13,7 +13,7 @@ label {	position: relative;}
 
 ul {list-style-type: none;}
 
-*:focus {outline: 1px solid #aeb5ff;}
+*:focus {outline: 2px solid #aeb5ff;}
 
 .header {
 	margin: 10px;
